@@ -1,2 +1,2 @@
 # finding-lanes
-Practice Python by using opencv to detect edges
+Use probablistic Hough transform in order to find lines on the road that would most likely correspond to lane markings.
